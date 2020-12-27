@@ -9,7 +9,7 @@
   <li>Project2.ipynb: Loads the data in the .csv's and applies various models to the data and generates comparison graphs. *Note*: There is some weirdness because I generated two of the datasets but another team mate generated the other dataset, with the true labels separated from the features</li>
   <li>*.csv files: These are the datasets we used.</li>
   <li>graphs folder: Contains all of the graphs we used for the project writeup. Graphs will get saved to the root of the folder, then I move the graphs we keep into the good folder</li>
-<\ul>
+</ul>
 <h1> Class Assignments </h1>
 <p>
 I've also have the assignments in a private repository. All of the assignments except for Random Forest are based on numpy (Random forest uses arrays of sklearn DecisionTreeClassifiers).</p>
