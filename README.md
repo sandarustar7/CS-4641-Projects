@@ -13,7 +13,7 @@
 <p>Also note that in Project2.ipynb there's some extra neural network stuff that wasn't used in the final project</p>
 <h1> Class Assignments </h1>
 <p>
-I've also have the assignments in a private repository. All of the assignments except for Random Forest are based on numpy (Random forest uses arrays of sklearn DecisionTreeClassifiers).</p>
+I've also have the assignments in a private repository (https://github.com/sandarustar7/ML-Algorithm-Implementations but it will probably just give a 404). All of the assignments except for Random Forest are based on numpy (Random forest uses arrays of sklearn DecisionTreeClassifiers).</p>
 <p>Here's an overview of the contents:</p> 
 HW2: <br>
   <ul>
