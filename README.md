@@ -1,7 +1,7 @@
 # CS-4641-Projects
 Group Project: https://github.gatech.edu/pages/mlipscomb30/cs4641group43/
 
-I've also have the assignments in a private repository. All of the assignments except for Random Forest are based on numpy (Random forest uses arrays of sklearn DecisionTreeClassifiers). 
+I've also have the assignments in a private repository. All of the assignments except for Random Forest are based on numpy (Random forest uses arrays of sklearn DecisionTreeClassifiers).<br>
 Here's an overview of the contents: <br><br>
 HW2: <br>
   <ul>
@@ -21,7 +21,7 @@ HW3: <br>
   <br>
 HW4: <br>
   <ul>
-  <li>Neural Network (Dense, using relu, sigmoid, tanh functions)</li>
+  <li>Neural Network (2 layers, using relu, sigmoid, tanh functions)</li>
   <li>Random Forest </li>
   </ul>
 
