@@ -1,4 +1,5 @@
 # CS-4641-Projects
+<p>A collection of project materials from CS 4641 at Georgia Tech</p>
 <h1> Group Project: </h1>
 <p>In a group of 4, we used basketball player's statistics to attempt to predict their position/role. We tried applying our models over a variety of seasons to measure how the importance of positions change over time.</p>
 <p>The project writeup is available at: https://github.gatech.edu/pages/mlipscomb30/cs4641group43/ </p>
