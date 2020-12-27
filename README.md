@@ -10,6 +10,7 @@
   <li>*.csv files: These are the datasets we used.</li>
   <li>graphs folder: Contains all of the graphs we used for the project writeup. Graphs will get saved to the root of the folder, then I move the graphs we keep into the good folder</li>
 </ul>
+<p>Also note that in Project2.ipynb there's some extra neural network stuff that wasn't used in the final project</p>
 <h1> Class Assignments </h1>
 <p>
 I've also have the assignments in a private repository. All of the assignments except for Random Forest are based on numpy (Random forest uses arrays of sklearn DecisionTreeClassifiers).</p>
